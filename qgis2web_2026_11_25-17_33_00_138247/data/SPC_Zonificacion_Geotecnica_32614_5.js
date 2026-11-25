@@ -1,0 +1,1 @@
+var json_SPC_Zonificacion_Geotecnica_32614_5 = {"type":"FeatureCollection","name":"SPC_Zonificacion_Geotecnica_32614_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
